@@ -24,7 +24,7 @@
     "file-loader": "^1.1.6",
     "image-webpack-loader": "^4.4.0",
     "node-libs-browser": "^1.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.6.0",
     "react": "^15.1.0",
     "react-addons-test-utils": "^15.1.0",
